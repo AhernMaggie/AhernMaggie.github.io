@@ -1,4 +1,4 @@
-# AhernMaggie.github.io
+# Maggie Ahern's Github
 
 My name is Maggie Ahern, I'm a Junior studying Computer Science & Engineering at Lehigh University. 
 
