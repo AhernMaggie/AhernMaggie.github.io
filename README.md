@@ -12,6 +12,11 @@ I love to read, hike, travel, and play the ukulele.
 #### Check out my Instagram to see some of the places I've been
 [Instagram Link](https://www.instagram.com/follow_the_horizon)
 
+### Lehigh University's Enrollment in 2017
+##### Example of a piechart using Lehigh U's enrollment data
+
+<iframe id="datawrapper-chart-grVk9" src="//datawrapper.dwcdn.net/grVk9/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["grVk9"]={},window.datawrapper["grVk9"].embedDeltas={"100":577,"200":459,"300":442,"400":400,"500":400,"700":383,"800":383,"900":383,"1000":383},window.datawrapper["grVk9"].iframe=document.getElementById("datawrapper-chart-grVk9"),window.datawrapper["grVk9"].iframe.style.height=window.datawrapper["grVk9"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["grVk9"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("grVk9"==b)window.datawrapper["grVk9"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
+
 
 
 
