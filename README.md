@@ -38,5 +38,5 @@ I love to read, hike, travel, and play the ukulele.
 <iframe src="https://drive.google.com/file/d/1IRZJ8KZeNOEyEk3_82azR9h0InbG7fOW/preview" width="640" height="480"></iframe>
 
 ### Google Tour Example
-##### This 360 immersive tour was created using Google Tour Creator. It illustrates what my walk to school looked like when I lived abroad.
+###### This 360 immersive tour was created using Google Tour Creator. It illustrates what my walk to school looked like when I lived abroad.
 <iframe width="100%" height="480px" src="https://poly.google.com/view/4iST3cLAbYK/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
