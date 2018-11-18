@@ -41,7 +41,11 @@ I love to read, hike, travel, and play the ukulele.
 ###### This 360 immersive tour was created using Google Tour Creator. It illustrates what my walk to school looked like when I lived abroad.
 <iframe width="100%" height="480px" src="https://poly.google.com/view/4iST3cLAbYK/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
 
-### Tableau Example
+### Tableau Worksheet Example
 <center><iframe src="https://public.tableau.com/views/NumberofVotersperState/VotersPerState?:embed=y&:display_count=yes&publish=yes" width="100%" height="480px" frameborder="0"></iframe></center>
+
+### Tableau Story Example
+<center><iframe src="https://public.tableau.com/views/VotingDataintheUS2012vs2016/Story1?:embed=y&:display_count=yes&publish=yes" width="100%" height="480px" frameborder="0"></iframe></center>
+
 
 
